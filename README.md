@@ -24,4 +24,3 @@ Without structured analysis and visualization, strategic decisions regarding mar
 - Identify top and underperforming product categories.
 - Analyze sales distribution across regions and states.
 - Examine sales contribution by customer segment.
-- Generate actionable business insights and recommendations.
